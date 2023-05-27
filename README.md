@@ -94,12 +94,12 @@
             </details>
             <details>
                 <summary>1.2.1.3 Diagrama de actividades (Mínimo 1)</summary>
-                <details>
-                    <summary>&lt;Transacción 1&gt;</summary>
-                 </details>
                  <details>
-                    <summary>&lt;Transacción N&gt;</summary>
-                 </details>
+                   <summary>Transacción 1</summary>
+                  </details>
+                  <details>
+                    <summary>Transacción N</summary>
+                  </details>
             </details>
             <details>
                 <summary>1.2.1.4 Diagramas de estado (Mínimo 1)</summary>
